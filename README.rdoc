@@ -6,7 +6,7 @@ application up and running.
 Things you may want to cover:
 
 * Ruby version
-
+2.2.3
 * System dependencies
 
 * Configuration
@@ -21,7 +21,7 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+* This is a simple demonstration of continuous integration and deployment via Codeship to Heroku.
 
 
 Please feel free to use a different markup language if you do not plan to run
