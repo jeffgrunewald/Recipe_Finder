@@ -12,16 +12,16 @@ Things you may want to cover:
 * Configuration
 
 * Database creation
-
+No database used.
 * Database initialization
 
 * How to run the test suite
-
+Tests should be placed in the test directory; run automatically when "rake" or "bundle exec rake" run.
 * Services (job queues, cache servers, search engines, etc.)
 
 * Deployment instructions
-
-* This is a simple demonstration of continuous integration and deployment via Codeship to Heroku.
+Pushed automatically to Heroku upon successful completion of all tests and build.
+This is a simple demonstration of continuous integration and deployment via Codeship to Heroku.
 
 
 Please feel free to use a different markup language if you do not plan to run
