@@ -1,4 +1,8 @@
 <h2>Searching for - <%= @search_term %></h2>
+<h3>Start a new search -
+<%= form_tag(root_path, :method => "get") do %>
+<%= text_field_tag :search, params[:search], placeholder: "Search Recipes" %>
+<% end %></h3>
 
 <table border="1">
 	<tr>
