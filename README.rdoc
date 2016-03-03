@@ -23,6 +23,8 @@ Tests should be placed in the test directory; run automatically when "rake" or "
 Pushed automatically to Heroku upon successful completion of all tests and build.
 This is a simple demonstration of continuous integration and deployment via Codeship to Heroku.
 
+Just pushed a new revision to allow tag-based searching.
+
 
 Please feel free to use a different markup language if you do not plan to run
 <tt>rake doc:app</tt>.
